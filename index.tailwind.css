@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2 {
+  @apply underline text-2xl uppercase text-blue-500 font-bold;
+}
